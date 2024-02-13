@@ -48,7 +48,7 @@ def grant_editor_permission(sheet_id, email):
 
 if __name__ == '__main__':
     # Specify the Google Sheets document ID and the email of the user to grant permissions
-    sheet_id = 'YOUR_SHEET_ID'
-    user_email = 'bengrambs@example.com'
+    sheet_id = '1xPhjx3ZK88GMyKpAOwRMo3fPEYqosb7Y6u4f0inhLrY'
+    user_email = 'bengrambs@gmail.com'
 
     grant_editor_permission(sheet_id, user_email)
